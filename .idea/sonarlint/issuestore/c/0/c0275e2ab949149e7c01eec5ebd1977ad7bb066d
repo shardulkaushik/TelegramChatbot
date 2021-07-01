@@ -1,0 +1,4 @@
+
+8python:S1700"Rename field "graph"(Ë£öİøÿÿÿÿ8ĞÕĞ„Ÿ/
+npython:S100"KRename method "addEdge" to match the regular expression ^[a-z_][a-z0-9_]*$.(êî‹œşÿÿÿÿ8àÕĞ„Ÿ/
+dpython:S100"GRename method "BFS" to match the regular expression ^[a-z_][a-z0-9_]*$.(ª¨/8ğÕĞ„Ÿ/

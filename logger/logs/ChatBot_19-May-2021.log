@@ -1,0 +1,5 @@
+[2021-05-19 20:46:12,384] p36484 - C:\Program Files\Python_3.7.7\lib\site-packages\werkzeug\_internal.py:113 - WARNING -  * Debugger is active!
+[2021-05-19 20:46:12,400] p36484 - C:\Program Files\Python_3.7.7\lib\site-packages\werkzeug\_internal.py:113 - INFO -  * Debugger PIN: 131-309-627
+[2021-05-19 20:46:12,406] p36484 - C:\Program Files\Python_3.7.7\lib\site-packages\werkzeug\_internal.py:113 - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2021-05-19 20:37:07,774] p35092 - C:\Program Files\Python_3.7.7\lib\site-packages\werkzeug\_internal.py:113 - INFO -  * Detected change in 'D:\\TelegramChatbot\\chatflow\\validate_chatflow.py', reloading
+
